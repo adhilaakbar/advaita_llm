@@ -1,0 +1,20 @@
+# Core ML / fine-tuning
+torch==2.10.0+cu128
+transformers==5.0.0
+unsloth
+trl
+peft
+bitsandbytes
+accelerate
+
+# RAG pipeline
+sentence-transformers==5.4.1
+faiss-cpu
+
+# Tokenization / data
+sentencepiece==0.2.1
+datasets
+
+# Notebook utilities
+ipywidgets
+tqdm
