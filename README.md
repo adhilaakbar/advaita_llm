@@ -4,7 +4,7 @@
 
 **Author:** Adhila Akbar
 **Advisor:** Dr.Raul Hinojosa, UCLA
-**Contact:** adhilaakbar@gmail.com
+**Contact:** adhila@ucla.edu
 
 ---
 
